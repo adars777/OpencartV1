@@ -1,0 +1,317 @@
+10/03/2026 09:11:13 PM: DEBUG: Attempting to acquire lock 2830664132864 on downloaded_files/pyautogui.lock
+10/03/2026 09:11:13 PM: DEBUG: Lock 2830664132864 acquired on downloaded_files/pyautogui.lock
+10/03/2026 09:11:13 PM: DEBUG: Attempting to release lock 2830664132864 on downloaded_files/pyautogui.lock
+10/03/2026 09:11:13 PM: DEBUG: Lock 2830664132864 released on downloaded_files/pyautogui.lock
+10/03/2026 09:11:13 PM: DEBUG: Skipping Selenium Manager; path to chrome driver specified in Service class: C:\Users\adars\OneDrive\Documents\Selenium Project\.venv\Lib\site-packages\seleniumbase\drivers\uc_driver.exe
+10/03/2026 09:11:13 PM: DEBUG: Started executable: `C:\Users\adars\OneDrive\Documents\Selenium Project\.venv\Lib\site-packages\seleniumbase\drivers\uc_driver.exe` in a child process with pid: 11748 using 134217728 to output -3
+10/03/2026 09:11:13 PM: DEBUG: Started executable: `C:\Users\adars\OneDrive\Documents\Selenium Project\.venv\Lib\site-packages\seleniumbase\drivers\uc_driver.exe` in a child process with pid: 25644 using 134217728 to output -3
+10/03/2026 09:11:14 PM: INFO: *************** test_001_AccountRegistration Started *****************
+10/03/2026 09:11:19 PM: DEBUG: Started executable: `C:\Users\adars\OneDrive\Documents\Selenium Project\.venv\Lib\site-packages\seleniumbase\drivers\uc_driver.exe` in a child process with pid: 21916 using 134217728 to output -3
+10/03/2026 09:11:35 PM: DEBUG: Attempting to acquire lock 2830663765840 on downloaded_files/pyautogui.lock
+10/03/2026 09:11:35 PM: DEBUG: Lock 2830663765840 acquired on downloaded_files/pyautogui.lock
+10/03/2026 09:11:35 PM: DEBUG: Attempting to release lock 2830663765840 on downloaded_files/pyautogui.lock
+10/03/2026 09:11:35 PM: DEBUG: Lock 2830663765840 released on downloaded_files/pyautogui.lock
+10/03/2026 09:11:35 PM: INFO:  ****** Launching Application ********
+10/03/2026 09:11:35 PM: INFO: ***** Clicking on MyAccount -> Register *****
+10/03/2026 09:12:10 PM: DEBUG: Attempting to acquire lock 2326968658176 on downloaded_files/pyautogui.lock
+10/03/2026 09:12:10 PM: DEBUG: Lock 2326968658176 acquired on downloaded_files/pyautogui.lock
+10/03/2026 09:12:10 PM: DEBUG: Attempting to release lock 2326968658176 on downloaded_files/pyautogui.lock
+10/03/2026 09:12:10 PM: DEBUG: Lock 2326968658176 released on downloaded_files/pyautogui.lock
+10/03/2026 09:12:10 PM: DEBUG: Skipping Selenium Manager; path to chrome driver specified in Service class: C:\Users\adars\OneDrive\Documents\Selenium Project\.venv\Lib\site-packages\seleniumbase\drivers\uc_driver.exe
+10/03/2026 09:12:10 PM: DEBUG: Started executable: `C:\Users\adars\OneDrive\Documents\Selenium Project\.venv\Lib\site-packages\seleniumbase\drivers\uc_driver.exe` in a child process with pid: 19136 using 134217728 to output -3
+10/03/2026 09:12:11 PM: DEBUG: Started executable: `C:\Users\adars\OneDrive\Documents\Selenium Project\.venv\Lib\site-packages\seleniumbase\drivers\uc_driver.exe` in a child process with pid: 16832 using 134217728 to output -3
+10/03/2026 09:12:20 PM: INFO: *************** test_001_AccountRegistration Started *****************
+10/03/2026 09:12:25 PM: DEBUG: Started executable: `C:\Users\adars\OneDrive\Documents\Selenium Project\.venv\Lib\site-packages\seleniumbase\drivers\uc_driver.exe` in a child process with pid: 17136 using 134217728 to output -3
+10/03/2026 09:12:26 PM: DEBUG: Attempting to acquire lock 2326968291152 on downloaded_files/pyautogui.lock
+10/03/2026 09:12:26 PM: DEBUG: Lock 2326968291152 acquired on downloaded_files/pyautogui.lock
+10/03/2026 09:12:26 PM: DEBUG: Attempting to release lock 2326968291152 on downloaded_files/pyautogui.lock
+10/03/2026 09:12:26 PM: DEBUG: Lock 2326968291152 released on downloaded_files/pyautogui.lock
+10/03/2026 09:12:26 PM: INFO:  ****** Launching Application ********
+10/03/2026 09:12:26 PM: INFO: ***** Clicking on MyAccount -> Register *****
+10/03/2026 09:12:29 PM: INFO: ***** Providing customer details for registration *****
+10/03/2026 09:12:31 PM: INFO: ***** Account Registration is Passed! *****
+10/03/2026 09:12:31 PM: INFO: *************** test_001_AccountRegistration Finished ***************
+10/03/2026 09:20:38 PM: DEBUG: Attempting to acquire lock 2807783368960 on downloaded_files/pyautogui.lock
+10/03/2026 09:20:38 PM: DEBUG: Lock 2807783368960 acquired on downloaded_files/pyautogui.lock
+10/03/2026 09:20:38 PM: DEBUG: Attempting to release lock 2807783368960 on downloaded_files/pyautogui.lock
+10/03/2026 09:20:38 PM: DEBUG: Lock 2807783368960 released on downloaded_files/pyautogui.lock
+10/03/2026 09:20:38 PM: DEBUG: Skipping Selenium Manager; path to chrome driver specified in Service class: C:\Users\adars\OneDrive\Documents\Selenium Project\.venv\Lib\site-packages\seleniumbase\drivers\uc_driver.exe
+10/03/2026 09:20:38 PM: DEBUG: Started executable: `C:\Users\adars\OneDrive\Documents\Selenium Project\.venv\Lib\site-packages\seleniumbase\drivers\uc_driver.exe` in a child process with pid: 6912 using 134217728 to output -3
+10/03/2026 09:20:39 PM: DEBUG: Started executable: `C:\Users\adars\OneDrive\Documents\Selenium Project\.venv\Lib\site-packages\seleniumbase\drivers\uc_driver.exe` in a child process with pid: 22448 using 134217728 to output -3
+10/03/2026 09:20:40 PM: INFO: 
+ 
+ *************** test_001_AccountRegistration Started *****************
+10/03/2026 09:20:45 PM: DEBUG: Started executable: `C:\Users\adars\OneDrive\Documents\Selenium Project\.venv\Lib\site-packages\seleniumbase\drivers\uc_driver.exe` in a child process with pid: 21308 using 134217728 to output -3
+10/03/2026 09:20:46 PM: DEBUG: Attempting to acquire lock 2807783018320 on downloaded_files/pyautogui.lock
+10/03/2026 09:20:46 PM: DEBUG: Lock 2807783018320 acquired on downloaded_files/pyautogui.lock
+10/03/2026 09:20:46 PM: DEBUG: Attempting to release lock 2807783018320 on downloaded_files/pyautogui.lock
+10/03/2026 09:20:46 PM: DEBUG: Lock 2807783018320 released on downloaded_files/pyautogui.lock
+10/03/2026 09:20:46 PM: INFO:  ****** Launching Application ********
+10/03/2026 09:20:46 PM: INFO: ***** Clicking on MyAccount -> Register *****
+10/03/2026 09:20:48 PM: INFO: ***** Providing customer details for registration *****
+10/03/2026 09:20:50 PM: INFO: ***** Account Registration is Passed! *****
+10/03/2026 09:20:50 PM: INFO: *************** test_001_AccountRegistration Finished ***************
+ 
+
+10/03/2026 09:23:01 PM: INFO: *************** test_001_AccountRegistration Started *****************
+10/03/2026 09:23:07 PM: INFO:  ****** Launching Application ********
+10/03/2026 09:23:07 PM: INFO: ***** Clicking on MyAccount -> Register *****
+10/03/2026 09:23:08 PM: INFO: ***** Providing customer details for registration *****
+10/03/2026 09:23:10 PM: INFO: ***** Account Registration is Passed! *****
+10/03/2026 09:23:10 PM: INFO: *************** test_001_AccountRegistration Finished ***************
+ 
+
+10/04/2026 12:42:28 AM: INFO: *************** test_001_AccountRegistration Started *****************
+10/04/2026 12:42:31 AM: INFO:  ****** Launching Application ********
+10/04/2026 12:42:31 AM: INFO: ***** Clicking on MyAccount -> Register *****
+10/04/2026 12:43:25 AM: INFO: *************** test_001_AccountRegistration Started *****************
+10/04/2026 12:43:25 AM: INFO:  ****** Launching Application ********
+10/04/2026 12:43:25 AM: INFO: ***** Clicking on MyAccount -> Register *****
+10/04/2026 12:44:00 AM: INFO: *************** test_001_AccountRegistration Started *****************
+10/04/2026 12:44:01 AM: INFO:  ****** Launching Application ********
+10/04/2026 12:44:01 AM: INFO: ***** Clicking on MyAccount -> Register *****
+10/04/2026 12:45:02 AM: INFO: *************** test_001_AccountRegistration Started *****************
+10/04/2026 12:46:02 AM: INFO:  ****** Launching Application ********
+10/04/2026 12:46:02 AM: INFO: ***** Clicking on MyAccount -> Register *****
+10/04/2026 12:46:12 AM: INFO: ***** Providing customer details for registration *****
+10/04/2026 12:46:14 AM: INFO: ***** Account Registration is Passed! *****
+10/04/2026 12:46:14 AM: INFO: *************** test_001_AccountRegistration Finished ***************
+ 
+
+10/04/2026 12:46:32 AM: INFO: *************** test_001_AccountRegistration Started *****************
+10/04/2026 12:46:32 AM: INFO:  ****** Launching Application ********
+10/04/2026 12:46:32 AM: INFO: ***** Clicking on MyAccount -> Register *****
+10/04/2026 12:49:01 AM: INFO: *************** test_001_AccountRegistration Started *****************
+10/04/2026 12:49:13 AM: INFO:  ****** Launching Application ********
+10/04/2026 12:49:13 AM: INFO: ***** Clicking on MyAccount -> Register *****
+10/04/2026 12:51:14 AM: INFO: *************** test_001_AccountRegistration Started *****************
+10/04/2026 12:51:14 AM: INFO:  ****** Launching Application ********
+10/04/2026 12:51:14 AM: INFO: ***** Clicking on MyAccount -> Register *****
+10/04/2026 12:52:03 AM: INFO: *************** test_001_AccountRegistration Started *****************
+10/04/2026 12:52:04 AM: INFO:  ****** Launching Application ********
+10/04/2026 12:52:05 AM: INFO: ***** Clicking on MyAccount -> Register *****
+10/04/2026 12:53:03 AM: INFO: *************** test_001_AccountRegistration Started *****************
+10/04/2026 12:53:08 AM: INFO:  ****** Launching Application ********
+10/04/2026 12:53:08 AM: INFO: ***** Clicking on MyAccount -> Register *****
+10/04/2026 12:53:09 AM: INFO: ***** Providing customer details for registration *****
+10/04/2026 12:53:11 AM: INFO: ***** Account Registration is Passed! *****
+10/04/2026 12:53:28 AM: INFO: *************** test_001_AccountRegistration Started *****************
+10/04/2026 12:53:33 AM: INFO:  ****** Launching Application ********
+10/04/2026 12:53:33 AM: INFO: ***** Clicking on MyAccount -> Register *****
+10/04/2026 12:53:34 AM: INFO: ***** Providing customer details for registration *****
+10/04/2026 12:53:36 AM: INFO: ***** Account Registration is Passed! *****
+10/04/2026 12:53:36 AM: INFO: *************** test_001_AccountRegistration Finished ***************
+ 
+
+10/04/2026 01:04:11 AM: INFO: *************** test_001_AccountRegistration Started *****************
+10/04/2026 01:04:12 AM: INFO:  ****** Launching Application ********
+10/04/2026 01:04:12 AM: INFO: ***** Clicking on MyAccount -> Register *****
+10/04/2026 01:31:29 AM: INFO: *************** test_001_AccountRegistration Started *****************
+10/04/2026 01:32:26 AM: INFO:  ****** Launching Application ********
+10/04/2026 01:32:26 AM: INFO: ***** Clicking on MyAccount -> Register *****
+10/04/2026 01:33:05 AM: INFO: *************** test_001_AccountRegistration Started *****************
+10/04/2026 01:33:12 AM: INFO:  ****** Launching Application ********
+10/04/2026 01:33:12 AM: INFO: ***** Clicking on MyAccount -> Register *****
+10/04/2026 01:33:28 AM: INFO: ***** Providing customer details for registration *****
+10/04/2026 01:33:30 AM: INFO: ***** Account Registration is Passed! *****
+10/04/2026 01:33:30 AM: INFO: *************** test_001_AccountRegistration Finished ***************
+ 
+
+10/04/2026 01:35:10 AM: INFO: *************** test_001_AccountRegistration Started *****************
+10/04/2026 01:36:20 AM: INFO:  ****** Launching Application ********
+10/04/2026 01:36:20 AM: INFO: ***** Clicking on MyAccount -> Register *****
+10/04/2026 01:37:25 AM: INFO: *************** test_001_AccountRegistration Started *****************
+10/04/2026 01:38:12 AM: INFO:  ****** Launching Application ********
+10/04/2026 01:38:12 AM: INFO: ***** Clicking on MyAccount -> Register *****
+10/04/2026 01:39:44 AM: INFO: *************** test_001_AccountRegistration Started *****************
+10/04/2026 01:39:52 AM: INFO:  ****** Launching Application ********
+10/04/2026 01:39:53 AM: INFO: ***** Clicking on MyAccount -> Register *****
+10/04/2026 01:39:57 AM: INFO: ***** Providing customer details for registration *****
+10/04/2026 01:40:00 AM: INFO: ***** Account Registration is Passed! *****
+10/04/2026 01:40:00 AM: INFO: *************** test_001_AccountRegistration Finished ***************
+ 
+
+10/04/2026 01:41:01 AM: INFO: *************** test_001_AccountRegistration Started *****************
+10/04/2026 01:41:07 AM: INFO:  ****** Launching Application ********
+10/04/2026 01:41:07 AM: INFO: ***** Clicking on MyAccount -> Register *****
+10/04/2026 01:41:09 AM: INFO: ***** Providing customer details for registration *****
+10/04/2026 01:41:11 AM: INFO: ***** Account Registration is Passed! *****
+10/04/2026 01:41:11 AM: INFO: *************** test_001_AccountRegistration Finished ***************
+ 
+
+10/04/2026 01:12:46 PM: INFO: *************** test_001_AccountRegistration Started *****************
+10/04/2026 01:13:27 PM: INFO:  ****** Launching Application ********
+10/04/2026 01:13:27 PM: INFO: ***** Clicking on MyAccount -> Register *****
+10/04/2026 01:13:57 PM: INFO: ***** Providing customer details for registration *****
+10/04/2026 01:14:09 PM: ERROR: ***** Account Registration is Failed! *****
+10/04/2026 01:17:41 PM: INFO: *************** test_001_AccountRegistration Started *****************
+10/04/2026 01:17:53 PM: INFO:  ****** Launching Application ********
+10/04/2026 01:17:54 PM: INFO: ***** Clicking on MyAccount -> Register *****
+10/04/2026 01:17:57 PM: INFO: ***** Providing customer details for registration *****
+10/04/2026 01:17:59 PM: INFO: ***** Account Registration is Passed! *****
+10/04/2026 01:18:00 PM: INFO: *************** test_001_AccountRegistration Finished ***************
+ 
+
+10/04/2026 02:22:41 PM: INFO: ********** test_002_AccountLogin Started *************
+10/04/2026 02:22:47 PM: INFO:  ************ Launching Application *************
+10/04/2026 02:22:47 PM: INFO: ****** Clicking on My Account -> Login *******
+10/04/2026 02:22:48 PM: INFO: ****** Providing customeer details for Login ********
+10/04/2026 08:31:42 PM: INFO: ********** test_002_AccountLogin Started *************
+10/04/2026 08:31:48 PM: INFO:  ************ Launching Application *************
+10/04/2026 08:31:48 PM: INFO: ****** Clicking on My Account -> Login *******
+10/04/2026 08:31:48 PM: INFO: ****** Providing customer details for Login ********
+10/04/2026 08:31:49 PM: ERROR:  *********** Account Login is Failed! ************
+10/04/2026 08:34:00 PM: INFO: ********** test_002_AccountLogin Started *************
+10/04/2026 08:34:16 PM: INFO:  ************ Launching Application *************
+10/04/2026 08:34:16 PM: INFO: ****** Clicking on My Account -> Login *******
+10/04/2026 08:34:22 PM: INFO: ****** Providing customer details for Login ********
+10/04/2026 08:34:22 PM: ERROR:  *********** Account Login is Failed! ************
+10/04/2026 08:37:40 PM: INFO: ********** test_002_AccountLogin Started *************
+10/04/2026 08:37:53 PM: INFO:  ************ Launching Application *************
+10/04/2026 08:37:53 PM: INFO: ****** Clicking on My Account -> Login *******
+10/04/2026 08:37:58 PM: INFO: ****** Providing customer details for Login ********
+10/04/2026 08:44:13 PM: INFO: ********** test_002_AccountLogin Started *************
+10/04/2026 08:44:28 PM: INFO:  ************ Launching Application *************
+10/04/2026 08:44:28 PM: INFO: ****** Clicking on My Account -> Login *******
+10/04/2026 08:44:32 PM: INFO: ****** Providing customer details for Login ********
+10/04/2026 08:47:11 PM: INFO: ********** test_002_AccountLogin Started *************
+10/04/2026 08:47:29 PM: INFO:  ************ Launching Application *************
+10/04/2026 08:47:29 PM: INFO: ****** Clicking on My Account -> Login *******
+10/04/2026 08:47:33 PM: INFO: ****** Providing customer details for Login ********
+10/04/2026 10:53:52 PM: INFO: ********** test_002_AccountLogin Started *************
+10/04/2026 10:53:58 PM: INFO:  ************ Launching Application *************
+10/04/2026 10:53:58 PM: INFO: ****** Clicking on My Account -> Login *******
+10/04/2026 10:53:58 PM: INFO: ****** Providing customer details for Login ********
+10/04/2026 10:53:59 PM: INFO:  *********** Logging In ************
+10/04/2026 10:53:59 PM: INFO: *********** Account Login is Passed
+10/04/2026 10:56:01 PM: INFO: *************** test_001_AccountRegistration Started *****************
+10/04/2026 10:56:09 PM: INFO:  ****** Launching Application ********
+10/04/2026 10:56:09 PM: INFO: ***** Clicking on MyAccount -> Register *****
+10/04/2026 10:56:42 PM: INFO: ********** test_002_AccountLogin Started *************
+10/04/2026 10:57:38 PM: INFO:  ************ Launching Application *************
+10/04/2026 10:57:38 PM: INFO: ****** Clicking on My Account -> Login *******
+10/04/2026 10:57:42 PM: INFO: ****** Providing customer details for Login ********
+10/04/2026 10:57:44 PM: INFO:  *********** Logging In ************
+10/04/2026 10:57:44 PM: INFO: *********** Account Login is Passed **************
+10/04/2026 10:57:44 PM: INFO: *************** test_002_AccountLogin Finished ***************
+ 
+
+10/04/2026 11:05:50 PM: INFO: *************** test_001_AccountRegistration Started *****************
+10/04/2026 11:05:57 PM: INFO:  ****** Launching Application ********
+10/04/2026 11:05:57 PM: INFO: ***** Clicking on MyAccount -> Register *****
+10/04/2026 11:06:00 PM: INFO: ***** Providing customer details for registration *****
+10/04/2026 11:06:02 PM: INFO: ***** Account Registration is Passed! *****
+10/04/2026 11:06:03 PM: INFO: *************** test_001_AccountRegistration Finished ***************
+ 
+
+10/04/2026 11:06:07 PM: INFO: ********** test_002_AccountLogin Started *************
+10/04/2026 11:06:13 PM: INFO:  ************ Launching Application *************
+10/04/2026 11:06:13 PM: INFO: ****** Clicking on My Account -> Login *******
+10/04/2026 11:06:15 PM: INFO: ****** Providing customer details for Login ********
+10/04/2026 11:06:16 PM: INFO:  *********** Logging In ************
+10/04/2026 11:06:16 PM: INFO: *********** Account Login is Passed **************
+10/04/2026 11:06:16 PM: INFO: *************** test_002_AccountLogin Finished ***************
+ 
+
+10/04/2026 11:19:14 PM: INFO: *************** test_001_AccountRegistration Started *****************
+10/04/2026 11:19:38 PM: INFO:  ****** Launching Application ********
+10/04/2026 11:19:38 PM: INFO: ***** Clicking on MyAccount -> Register *****
+10/04/2026 11:19:41 PM: INFO: ***** Providing customer details for registration *****
+10/04/2026 11:19:43 PM: INFO: ***** Account Registration is Passed! *****
+10/04/2026 11:19:44 PM: INFO: *************** test_001_AccountRegistration Finished ***************
+ 
+
+10/04/2026 11:19:47 PM: INFO: ********** test_002_AccountLogin Started *************
+10/04/2026 11:20:11 PM: INFO:  ************ Launching Application *************
+10/04/2026 11:20:11 PM: INFO: ****** Clicking on My Account -> Login *******
+10/04/2026 11:20:16 PM: INFO: ****** Providing customer details for Login ********
+10/04/2026 11:20:26 PM: ERROR:  *********** Account Login is Failed! ************
+10/05/2026 02:33:01 PM: INFO: ****** Starting test_003_login_Data Driven *****
+10/05/2026 02:35:27 PM: INFO: ****** Starting test_003_login_Data Driven *****
+10/05/2026 02:36:50 PM: INFO: ****** Starting test_003_login_Data Driven *****
+10/05/2026 02:37:42 PM: INFO: ************** End of test_003_login_Data_Driven **************
+10/05/2026 02:39:03 PM: INFO: ****** Starting test_003_login_Data Driven *****
+10/05/2026 02:39:48 PM: INFO: ************** End of test_003_login_Data_Driven **************
+10/05/2026 02:40:21 PM: INFO: ****** Starting test_003_login_Data Driven *****
+10/05/2026 02:40:37 PM: INFO: ************** End of test_003_login_Data_Driven **************
+10/05/2026 02:44:49 PM: INFO: ****** Starting test_003_login_Data Driven *****
+10/05/2026 02:46:41 PM: INFO: ****** Starting test_003_login_Data Driven *****
+10/05/2026 09:12:35 PM: INFO: ****** Starting test_003_login_Data Driven *****
+10/05/2026 09:17:19 PM: INFO: ****** Starting test_003_login_Data Driven *****
+10/05/2026 09:18:38 PM: INFO: ****** Starting test_003_login_Data Driven *****
+10/05/2026 09:22:10 PM: INFO: ****** Starting test_003_login_Data Driven *****
+10/05/2026 09:25:49 PM: INFO: ****** Starting test_003_login_Data Driven *****
+10/05/2026 09:26:55 PM: INFO: ****** Starting test_003_login_Data Driven *****
+10/05/2026 09:27:45 PM: INFO: ************** End of test_003_login_Data_Driven **************
+10/05/2026 09:40:11 PM: INFO: ********** test_002_AccountLogin Started *************
+10/05/2026 09:40:17 PM: INFO:  ************ Launching Application *************
+10/05/2026 09:40:17 PM: INFO: ****** Clicking on My Account -> Login *******
+10/05/2026 09:40:20 PM: INFO: ****** Providing customer details for Login ********
+10/05/2026 09:40:21 PM: INFO:  *********** Logging In ************
+10/05/2026 09:40:21 PM: INFO: *********** Account Login is Passed **************
+10/05/2026 09:40:21 PM: INFO: *************** test_002_AccountLogin Finished ***************
+ 
+
+10/05/2026 10:23:05 PM: INFO: ********** test_002_AccountLogin Started *************
+10/05/2026 10:23:34 PM: INFO:  ************ Launching Application *************
+10/05/2026 10:23:34 PM: INFO: ****** Clicking on My Account -> Login *******
+10/05/2026 10:23:41 PM: INFO: ****** Providing customer details for Login ********
+10/05/2026 10:23:43 PM: INFO:  *********** Logging In ************
+10/05/2026 10:23:43 PM: INFO: *********** Account Login is Passed **************
+10/05/2026 10:23:43 PM: INFO: *************** test_002_AccountLogin Finished ***************
+ 
+
+10/05/2026 10:32:34 PM: INFO: ********** test_002_AccountLogin Started *************
+10/05/2026 10:32:48 PM: INFO:  ************ Launching Application *************
+10/05/2026 10:32:49 PM: INFO: ****** Clicking on My Account -> Login *******
+10/05/2026 10:33:26 PM: INFO: ********** test_002_AccountLogin Started *************
+10/05/2026 10:33:40 PM: INFO:  ************ Launching Application *************
+10/05/2026 10:33:40 PM: INFO: ****** Clicking on My Account -> Login *******
+10/05/2026 10:34:10 PM: INFO: ********** test_002_AccountLogin Started *************
+10/05/2026 10:34:17 PM: INFO:  ************ Launching Application *************
+10/05/2026 10:34:17 PM: INFO: ****** Clicking on My Account -> Login *******
+10/05/2026 10:34:18 PM: INFO: ****** Providing customer details for Login ********
+10/05/2026 10:34:19 PM: INFO:  *********** Logging In ************
+10/05/2026 10:34:19 PM: INFO: *********** Account Login is Passed **************
+10/05/2026 10:34:19 PM: INFO: *************** test_002_AccountLogin Finished ***************
+ 
+
+10/05/2026 10:34:37 PM: INFO: ********** test_002_AccountLogin Started *************
+10/05/2026 10:34:43 PM: INFO:  ************ Launching Application *************
+10/05/2026 10:34:43 PM: INFO: ****** Clicking on My Account -> Login *******
+10/05/2026 10:34:43 PM: INFO: ****** Providing customer details for Login ********
+10/05/2026 10:34:44 PM: INFO:  *********** Logging In ************
+10/05/2026 10:34:44 PM: INFO: *********** Account Login is Passed **************
+10/05/2026 10:34:44 PM: INFO: *************** test_002_AccountLogin Finished ***************
+ 
+
+10/05/2026 10:35:04 PM: INFO: ********** test_002_AccountLogin Started *************
+10/05/2026 10:35:09 PM: INFO:  ************ Launching Application *************
+10/05/2026 10:35:09 PM: INFO: ****** Clicking on My Account -> Login *******
+10/05/2026 10:35:10 PM: INFO: ****** Providing customer details for Login ********
+10/05/2026 10:35:11 PM: INFO:  *********** Logging In ************
+10/05/2026 10:35:11 PM: INFO: *********** Account Login is Passed **************
+10/05/2026 10:35:11 PM: INFO: *************** test_002_AccountLogin Finished ***************
+ 
+
+10/05/2026 10:35:23 PM: INFO: ********** test_002_AccountLogin Started *************
+10/05/2026 10:35:29 PM: INFO:  ************ Launching Application *************
+10/05/2026 10:35:29 PM: INFO: ****** Clicking on My Account -> Login *******
+10/05/2026 10:35:30 PM: INFO: ****** Providing customer details for Login ********
+10/05/2026 10:35:31 PM: INFO:  *********** Logging In ************
+10/05/2026 10:35:31 PM: INFO: *********** Account Login is Passed **************
+10/05/2026 10:35:31 PM: INFO: *************** test_002_AccountLogin Finished ***************
+ 
+
+10/05/2026 10:37:18 PM: INFO: ********** test_002_AccountLogin Started *************
+10/05/2026 10:37:28 PM: INFO:  ************ Launching Application *************
+10/05/2026 10:37:28 PM: INFO: ****** Clicking on My Account -> Login *******
+10/05/2026 10:38:23 PM: INFO: ********** test_002_AccountLogin Started *************
+10/05/2026 10:38:37 PM: INFO:  ************ Launching Application *************
+10/05/2026 10:38:37 PM: INFO: ****** Clicking on My Account -> Login *******
+10/05/2026 10:38:41 PM: INFO: ****** Providing customer details for Login ********
+10/05/2026 10:38:42 PM: INFO:  *********** Logging In ************
+10/05/2026 10:38:42 PM: INFO: *********** Account Login is Passed **************
+10/05/2026 10:38:42 PM: INFO: *************** test_002_AccountLogin Finished ***************
+ 
+

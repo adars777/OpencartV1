@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Pytest
+.pytest_cache/
+**/.pytest_cache/
+
+# Test output
+screenshots/
+logs/
+reports/
+
+# IDE
+.idea/
+.vscode/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+
+# Excel temporary files
+~$*.xlsx
